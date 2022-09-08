@@ -7,9 +7,9 @@ route:
 receivers:
 - name: 'email-me'
   email_configs:
-  - to: 'uremail'
-    from: 'uremail'
+  - to: 'ncmangwarira@gmail.com'
+    from: 'daninoel90@gmail.com'
     smarthost: smtp.gmail.com:587
-    auth_username: 'uremail'
-    auth_identity: 'uremail'
-    auth_password: 'app-password'
+    auth_username: 'daninoel90@gmail.com'
+    auth_identity: 'daninoel90@gmail.com'
+    auth_password: 'Deli@flower123'
